@@ -1,3 +1,26 @@
 {
-    "data": []
+    "data": [
+        {
+            "id": "2i6JwE4vrLysbuP48CS2g2",
+            "name": "light",
+            "power": 100,
+            "props": {
+                "GPIO": 16,
+                "Inverted": "No"
+            },
+            "state": false,
+            "type": "ArduinoGPIOActor"
+        },
+        {
+            "id": "AaQ3dKYWKDoNCfh2EkNi4w",
+            "name": "variablepoop",
+            "power": 100,
+            "props": {
+                "Frequency": "100",
+                "GPIO": 5
+            },
+            "state": false,
+            "type": "ArduinoGPIOPWMActor"
+        }
+    ]
 }

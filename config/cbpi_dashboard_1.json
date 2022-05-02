@@ -1,0 +1,75 @@
+{
+    "elements": [
+        {
+            "id": "63b54797-191b-48ef-b841-196f588c85a9",
+            "name": "poop-Actor",
+            "props": {
+                "action": "no",
+                "actor": "2i6JwE4vrLysbuP48CS2g2",
+                "size": "20"
+            },
+            "type": "ActorButton",
+            "x": 760,
+            "y": 460
+        },
+        {
+            "id": "ff8fa9de-a805-4dfc-b92d-b3a9925ed61c",
+            "name": "poopControl",
+            "props": {
+                "kettle": "5qhdXca3P4sbQoht5swoin",
+                "orientation": "vertical",
+                "size": "large"
+            },
+            "type": "KettleControl",
+            "x": 790,
+            "y": 130
+        },
+        {
+            "id": "32dc0f58-d666-470c-a830-d1088e4ecccc",
+            "name": "myKettle",
+            "props": {
+                "heigth": "150",
+                "width": "100"
+            },
+            "type": "Kettle",
+            "x": 780,
+            "y": 275
+        },
+        {
+            "id": "f1607c07-fd30-4409-9040-c7768a2bcd49",
+            "name": "mash",
+            "props": {
+                "heigth": "150",
+                "width": "100"
+            },
+            "type": "Kettle",
+            "x": 405,
+            "y": 265
+        },
+        {
+            "id": "82f77a15-1989-43e5-a7dc-308b237de38a",
+            "name": "herms",
+            "props": {
+                "action": "yes",
+                "actor": "AaQ3dKYWKDoNCfh2EkNi4w",
+                "size": "20"
+            },
+            "type": "ActorButton",
+            "x": 355,
+            "y": 465
+        },
+        {
+            "id": "d809c84b-97a1-4eb5-94f1-63559cfc71fb",
+            "name": "mash",
+            "props": {
+                "kettle": "aHg5ohKiLcH8J8HbuJa2ho",
+                "orientation": "",
+                "size": "normal"
+            },
+            "type": "KettleControl",
+            "x": 430,
+            "y": 115
+        }
+    ],
+    "pathes": []
+}
