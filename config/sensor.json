@@ -1,3 +1,18 @@
 {
-    "data": []
+    "data": [
+        {
+            "id": "TPsuuMPZA7m6jjtT2Awe47",
+            "name": "mash",
+            "props": {},
+            "state": false,
+            "type": "DummySensor"
+        },
+        {
+            "id": "HpRvh7RdBgpFPq9wZzVZCN",
+            "name": "leval",
+            "props": {},
+            "state": false,
+            "type": "DummyPressure"
+        }
+    ]
 }

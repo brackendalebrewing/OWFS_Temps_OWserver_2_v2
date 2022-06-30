@@ -2,25 +2,32 @@
     "data": [
         {
             "agitator": "",
+            "heater": "AaQ3dKYWKDoNCfh2EkNi4w",
+            "id": "aHg5ohKiLcH8J8HbuJa2ho",
+            "name": "mash",
+            "props": {
+                "D": "10",
+                "I": "10",
+                "Max_Output": "100",
+                "Min_Output": "0",
+                "P": "10",
+                "SampleTime": 5
+            },
+            "sensor": "",
+            "state": false,
+            "target_temp": 54,
+            "type": "PIDcontrol"
+        },
+        {
+            "agitator": "",
             "heater": "2i6JwE4vrLysbuP48CS2g2",
             "id": "5qhdXca3P4sbQoht5swoin",
             "name": "poop kettle",
             "props": {},
             "sensor": "",
             "state": false,
-            "target_temp": 71,
+            "target_temp": 53,
             "type": "Hysteresis"
-        },
-        {
-            "agitator": "",
-            "heater": "AaQ3dKYWKDoNCfh2EkNi4w",
-            "id": "aHg5ohKiLcH8J8HbuJa2ho",
-            "name": "hex",
-            "props": {},
-            "sensor": "",
-            "state": false,
-            "target_temp": 66,
-            "type": ""
         }
     ]
 }
