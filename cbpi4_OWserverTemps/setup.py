@@ -3,8 +3,8 @@ from setuptools import setup
 setup(name='cbpi4_OWserverTemps',
       version='0.0.1',
       description='CraftBeerPi Plugin',
-      author='',
-      author_email='',
+      author='Andrew Cooper',
+      author_email='squamishcoop@gmail.com',
       url='',
       include_package_data=True,
       package_data={
