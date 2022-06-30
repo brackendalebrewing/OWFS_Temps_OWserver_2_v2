@@ -7,6 +7,7 @@ setup(name='cbpi4_OWserverTemps',
       author_email='squamishcoop@gmail.com',
       url='',
       include_package_data=True,
+      install_requires=['pyownet'],
       package_data={
         # If any package contains *.txt or *.rst files, include them:
       '': ['*.txt', '*.rst', '*.yaml'],
